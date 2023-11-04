@@ -18,6 +18,6 @@ $ python reverseblend.py input.png -c "#ffffff" -o output.png
 
 ### example
 
-- using `-c "#fd7c00"`
+- using `-c "#fd7c00"` ![#fd7c00](https://placehold.co/8/fd7c00/fd7c00)
 
 ![example](example.png)
